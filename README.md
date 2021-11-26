@@ -1,2 +1,1 @@
-# TinDog
-This is a project using Bootstrap4
+TinDog Starting Files
